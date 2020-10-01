@@ -35,4 +35,4 @@ Ark requires Python 3.2 or later.
 
 ## License
 
-This work has been placed in the public domain.
+This work has been placed in the public domain.To develop a comfort python pakaging
